@@ -19,14 +19,17 @@ The following pages will walk you through the steps of the project. At a high le
 
 - Scenario 1: Manufacturing
     - FPGA
-    ![results/manufacturing/output_video.mp4](
+
+![results/manufacturing/output_video.mp4](
 https://user-images.githubusercontent.com/7910856/84945732-e8546380-b0e7-11ea-93db-f6cdc8ac0ce2.gif)
 - Scenario 2: Retail Sector
     - CPU and IGPU
-    ![results/retail/output_video.mp4](https://user-images.githubusercontent.com/7910856/84945926-2fdaef80-b0e8-11ea-9454-619237df23a3.gif)
+
+![results/retail/output_video.mp4](https://user-images.githubusercontent.com/7910856/84945926-2fdaef80-b0e8-11ea-9454-619237df23a3.gif)
 - Scenario 3: Transportation
     - VPU
-    ![results/transportation/output_video.mp4](https://user-images.githubusercontent.com/7910856/84946100-6e70aa00-b0e8-11ea-9ca8-e9e7dc511205.gif)
+
+![results/transportation/output_video.mp4](https://user-images.githubusercontent.com/7910856/84946100-6e70aa00-b0e8-11ea-9ca8-e9e7dc511205.gif)
 
 ### Results
 
