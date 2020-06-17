@@ -1,4 +1,4 @@
-# Smart Queuing System -- Project
+# Smart Queue Monitoring System - Project
 
 This project demonstrates how to detect people in queues (in order to redirect them to shortest queue) using inference on pre-trained neural network with Intel OpenVINO framework.
 
