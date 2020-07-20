@@ -1,5 +1,14 @@
 # Smart Queue Monitoring System - Project
 
+| Details            |              |
+|-----------------------|---------------|
+| Programming Language: |  Python 3.6+ |
+| Intel OpenVINO ToolKit: | 2020.2.120 |
+| Docker (Ubuntu OpenVINO pre-installed): | [mmphego/intel-openvino](https://hub.docker.com/r/mmphego/intel-openvino)|
+| Hardware Used: | Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz |
+| Device: | CPU |
+
+
 This project demonstrates how to detect people in queues (in order to redirect them to shortest queue) using inference on pre-trained neural network with Intel OpenVINO framework.
 
 The purpose of this project is to choose the right hardware suitable for a particular scenario. See [Scenarios.md](Scenarios.md)
